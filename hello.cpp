@@ -1,8 +1,9 @@
 #include <iostream>
-using namesspace std;
+using namespace std;
 
 int main()
 {
-  cout<<"hello world!"<<endl;
-  retrun 0;
+    cout<<"hello world!"<<endl;
+    system("pause");
+    return 0;
 }
